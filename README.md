@@ -11,6 +11,17 @@ Collection of standard and sequence to sequence deep learning models for the tas
 
 All the implementations are based on Tensorflow. For backward compatibility all the code must run with TF v1.0. Originally the repository was developed with TF 1.13 but it should run just fin with TF 1.14 as well, although it is not suggested (lots of annoying warnings).
 
+## Citation
+
+If you use our work, please cite our paper [**Hierarchical Document Classification as a Sequence Generation Task**](https://github.com/julian-risch/JCDL2020/risch2020hierarchical.pdf) as follows:
+
+    @inproceedings{risch2020hierarchical,
+    author = {Risch, Julian and Garda, Samuele and Krestel, Ralf},
+    booktitle = {Proceedings of the Joint Conference on Digital Libraries (JCDL)},
+    title = {Hierarchical Document Classification as a Sequence Generation Task},
+    year = {2020}
+    }
+
 # Data
 
 1) Download the Patent Classification Benchmark Dataset with 2 million patents [USPTO-2M](http://mleg.cse.sc.edu/DeepPatent/index.html). Please place all the files in a single folder.

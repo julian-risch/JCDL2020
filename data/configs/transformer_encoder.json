@@ -1,0 +1,23 @@
+{
+ "in_dir": "/mnt/data/datasets/patents/uspto2m/tfrecords",
+ "years": "all",
+ "model_type": "transformer_encoder",
+ "enable_metrics_in_training" : true,
+ "max_len": 30,
+ "batch_size": 32,
+ "epochs": 5,
+ "hidden_size" : 256,
+ "num_hidden_layers" : 3,
+ "num_heads" : 8,
+ "filter_size" : 1024,
+ "layer_postprocess_dropout" : 0.1,
+ "attention_dropout" : 0.1,
+ "relu_dropout" : 0.1,
+ "learning_rate" : 0.001,
+ "optimizer_adam_beta1" : 0.9,
+ "optimizer_adam_beta2" : 0.999,
+ "optimizer_adam_epsilon" : 1e-08,
+ "allow_ffn_pad" : false,
+ "learning_rate" : 2
+}
+

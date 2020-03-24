@@ -1,0 +1,17 @@
+{
+ "in_dir": "/mnt/data/datasets/patents/uspto2m/tfrecords",
+ "years": "all",
+ "model_type": "cnn",
+ "max_len": 30,
+ "batch_size": 32,
+ "epochs": 5,
+ "dropout" : 0.1, 
+ "hidden_size" : 512,
+ "optimizer_adam_beta1" : 0.9,
+ "optimizer_adam_beta2" : 0.999,
+ "optimizer_adam_epsilon" : 1e-08,
+ "learning_rate" : 0.001,
+ "clipping" : 0,
+ "kernel_sizes" : [3,4,5]
+}
+

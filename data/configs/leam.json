@@ -1,0 +1,19 @@
+{
+ "in_dir": "/mnt/data/datasets/patents/uspto2m/tfrecords",
+  "years": "all",
+ "model_type": "leam",
+ "max_len": 30,
+ "batch_size": 32,
+ "epochs": 5,
+ "embd_do" : 0.1,
+ "dropout" : 0.1, 
+ "ngram_size" : 55,
+ "mlp_size" : 300,
+ "hidden_size" : 100,
+ "optimizer_adam_beta1" : 0.9,
+ "optimizer_adam_beta2" : 0.999,
+ "optimizer_adam_epsilon" : 1e-08,
+ "learning_rate" : 0.0001,
+ "clipping" : 0
+}
+

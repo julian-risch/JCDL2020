@@ -1,4 +1,4 @@
-# Hierarchical Document and Label Embeddings
+# Hierarchical Document Classification as a Sequence Generation Task
 
 Collection of standard and sequence to sequence deep learning models for the task of Automatic Patent Classification:
 

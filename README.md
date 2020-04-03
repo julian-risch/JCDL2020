@@ -9,7 +9,7 @@ Collection of standard and sequence to sequence deep learning models for the tas
 - [Tree Convolutional Neural Network [5] (NOT PORTED YET) ](#references) 
 - [Transformer / Transformer Encoder [6] ](#references)
 
-All the implementations are based on Tensorflow. For backward compatibility all the code must run with TF v1.0. Originally the repository was developed with TF 1.13 but it should run just fin with TF 1.14 as well, although it is not suggested (lots of annoying warnings).
+All the implementations are based on Tensorflow. For backward compatibility all the code must run with TF v1.0. Originally the repository was developed with TF 1.13 but it should run just fine with TF 1.14 as well, although it is not suggested (lots of annoying warnings).
 
 ## Citation
 

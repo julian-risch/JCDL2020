@@ -13,7 +13,7 @@ All the implementations are based on Tensorflow. For backward compatibility all 
 
 ## Citation
 
-If you use our work, please cite our paper [**Hierarchical Document Classification as a Sequence Generation Task**](https://github.com/julian-risch/JCDL2020/risch2020hierarchical.pdf) as follows:
+If you use our work, please cite our paper [**Hierarchical Document Classification as a Sequence Generation Task**](https://github.com/julian-risch/JCDL2020/blob/master/risch2020hierarchical.pdf) as follows:
 
     @inproceedings{risch2020hierarchical,
     author = {Risch, Julian and Garda, Samuele and Krestel, Ralf},

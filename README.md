@@ -19,6 +19,7 @@ If you use our work, please cite our paper [**Hierarchical Document Classificati
     author = {Risch, Julian and Garda, Samuele and Krestel, Ralf},
     booktitle = {Proceedings of the Joint Conference on Digital Libraries (JCDL)},
     title = {Hierarchical Document Classification as a Sequence Generation Task},
+    pages = {147--155},
     year = {2020}
     }
 
